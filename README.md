@@ -1,4 +1,4 @@
 # Lavanya-demo
 This is my first Git Repository.
 <br>
-Author - lavanya warang
+Author - lavanya santosh warang
